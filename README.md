@@ -1,7 +1,8 @@
-🔍 Network Security Enthusiast | IT Professional | Continuous Learner
 
-I’m passionate about all things related to network security and system administration. With hands-on experience in network traffic analysis, secure server setup, and cybersecurity fundamentals, I aim to enhance network security and improve IT systems. My projects reflect a commitment to building strong foundational knowledge and a practical skill set in the tech industry.
-
+Key Skills:
+Network Analysis: Skilled in using Wireshark to capture, filter, and analyze network traffic, identifying patterns and security threats.
+Server Configuration: Experienced in setting up and configuring SSH and FTP servers, ensuring secure access and data transfer.
+Cybersecurity Fundamentals: Understanding of network vulnerabilities, risk assessment, and mitigation techniques.
 
 <!---
 lunar9k/lunar9k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
